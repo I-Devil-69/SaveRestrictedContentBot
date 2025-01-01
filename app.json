@@ -7,33 +7,33 @@
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
+    "repository": "https://github.com/i-devil-69/SaveRestrictedContentBot",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/demonarmy",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "e2ffa892d1c47a8ad81d3d49fdf4f7b1"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "29419742"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "7208177037:AAFVBPx_nGs3AgR7-kozox8gfdpYlr1_mMI"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": ""
+            "value": "BQE8lCYAl5c6yWn_J8wYG5EtxPOLd_7TrR7PHQn_07IC6oaB22WbctrgJrwqsh4BWG5oruJ1q_fz3j4S3tdw7Zn50T5UxOrXQiLsGcTOfwPAQyV_M5s0oeMPruwz7diP8Y3d86Vh3Uj1A_ddGA_XCAtAxjl2BD64z9KZ2X73UugpabgLXX74vEzOqI28bsbTUz9OC3TIdLLxMkmU2oZA7l-EEOqnThjQQWUrp-OxQZdbS6BB9eoJ9pKAGfIvhS5y8wBmyY4CsQrF1KyVL_i-OjP8WaKdyWPb2RlW4u2YazlZZxM7-dLkywRMjnbz0Is-uTMv400WfVlgmWOHzwDr_qVFhcILRgAAAAGRAfg3AA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": ""
+            "value": "6727792695"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": ""
+            "value": "demonarmy"
         }
     },
     "buildpacks": [
